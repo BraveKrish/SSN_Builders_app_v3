@@ -110,7 +110,7 @@
                             </div>
                             <div class="program-text bg-white px-4 pb-3">
                                 <div class="program-text-inner">
-                                    <a href="https://ssscompany.netlify.app/" class="h4 center">SSN Construction</a>
+                                    <a href="https://ssscompany.netlify.app/" class="h4 center">SSN Constructions</a>
                                    
                                 </div> 
                             </div>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="program-text bg-white px-4 pb-3">
                                 <div class="program-text-inner">
-                                    <a href="{{ route('engineer') }}" target="_blank" class="h4 center">SSN Engineering</a>
+                                    <a href="https://engineers.ssncorporation.com/" target="_blank" class="h4 center">SSN Engineerings</a>
                                    
                                 </div> 
                             </div>
