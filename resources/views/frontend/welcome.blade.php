@@ -47,7 +47,7 @@
                 <div class="d-flex justify-content-between">
                     <div class="top-info ps-2">
                         <small class="me-3"><i class="fas fa-map-marker-alt me-2 text-secondary"></i> <a href="#" class="text-white">Holly Springs, North Carolina 27540</a></small>
-                        <small class="me-3"><i class="fas fa-envelope me-2 text-secondary"></i><a href="#" class="text-white">ssnbuilders@gmail.com</a></small>
+                        <small class="me-3"><i class="fas fa-envelope me-2 text-secondary"></i><a href="#" class="text-white">infor.ssnbuilders@gmail.com</a></small>
                     </div>
                     <div class="top-link pe-2">
                         <a href="" class="btn btn-light btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-secondary"></i></a>
