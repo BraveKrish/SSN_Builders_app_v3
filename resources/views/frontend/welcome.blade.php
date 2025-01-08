@@ -110,7 +110,7 @@
                             </div>
                             <div class="program-text bg-white px-4 pb-3">
                                 <div class="program-text-inner">
-                                    <a href="https://ssscompany.netlify.app/" class="h4 center">SSN Construction</a>
+                                    <a href="http://constructions.ssncorporation.com/" class="h4 center">SSN Construction</a>
                                    
                                 </div> 
                             </div>
