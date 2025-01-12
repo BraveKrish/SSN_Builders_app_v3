@@ -19,6 +19,7 @@ use App\Http\Controllers\dashboard\TeamController;
 use App\Http\Controllers\dashboard\TestimonialController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\UserController;
+use Illuminate\Support\Facades\Hash;
 // use Illuminate\Routing\Route;
 // use Illuminate\Support\Facades\Route as FacadesRoute;
 
