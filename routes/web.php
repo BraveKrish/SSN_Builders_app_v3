@@ -132,3 +132,18 @@ Route::put('/site-profile/update',[DashboardProfileController::class,'updateSite
 Route::get('/contacts',[ContactController::class,'index'])->name('contact.show');
 Route::get('/contact-reply/{id}',[ContactController::class,'replyShow'])->name('contact.reply.show');
 Route::post('/reply/contact',[ContactController::class,'reply'])->name('contact.reply');
+
+// password reset
+Route::get('/hash-password', function () {
+    // Hardcoded password
+    $password = 'ssnadmin@1234';
+
+    // Hash the password
+    $hashedPassword = Hash::make($password);
+
+    // Return the hashed password as a JSON response
+    return response()->json([
+        'success' => true,
+        'hashed_password' => $hashedPassword,
+    ]);
+});
